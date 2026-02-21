@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Maze Board",
+  "description": "Autonomous DeFi agents trading and coordinating in a 3D maze board simulation.",
+  "requestFramePermissions": []
+}
